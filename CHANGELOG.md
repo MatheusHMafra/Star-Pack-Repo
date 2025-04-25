@@ -3,6 +3,8 @@
 
 ## 0.0.2
 
+- Release to thunderstore
+
 <br>
 
 <details>
